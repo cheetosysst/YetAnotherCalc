@@ -10,3 +10,12 @@ None, because this is to normal and stupid to license this thing
 None, like I said, it's a calc.
 
 what do you expect to see in this calculator? Fancy animation? Not this time, maybe a future update...
+
+# Demo
+What? You want a Demo?
+
+Well I do have one here...
+Do note that this demo is on 000webhost and it often go offline because of its free plan restriction
+
+# screen shot
+![Alt text](452c8c0e-6bb4-4243-bcfb-551770a8506a.png)
