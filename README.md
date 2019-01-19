@@ -16,6 +16,7 @@ What? You want a Demo?
 
 Well I do have one here...
 Do note that this demo is on 000webhost and it often go offline because of its free plan restriction
+https://thect.000webhostapp.com/calculator/index.html
 
 # screen shot
 ![Alt text](452c8c0e-6bb4-4243-bcfb-551770a8506a.png)
